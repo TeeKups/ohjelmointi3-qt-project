@@ -1,7 +1,7 @@
 # Ohjelmointi 3 Hajoitustyö, ryhmä ´609uu´
 
 Tämä on ohjelmointi 3-kurssin harjoitustyö, jossa teknologioina käytettiin C++:aa ja Qt:ta.
-Projektin oavt toteuttaneet minä ja [j2245](https://github.com/j2245).
+Projektin ovat toteuttaneet [TeeKups](https://githib.com/TeeKups) ja [j2245](https://github.com/j2245).
 
 ## Yleiskuvaus
 
