@@ -1,0 +1,8 @@
+<RCC>
+    <qresource prefix="/offlinedata">
+        <file>offlinedata/full_stations_kkj3.json</file>
+        <file>offlinedata/kartta_iso_1095x592.png</file>
+        <file>offlinedata/kartta_pieni_500x500.png</file>
+        <file>offlinedata/final_bus_liteN.json</file>
+    </qresource>
+</RCC>
